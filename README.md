@@ -18,7 +18,7 @@ Everything here was proven on live products first (LINE bots with real users, Th
 
 | Repo | What it solves |
 |---|---|
-| [claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) | Claude Code mods on Windows: a context/quota footer, Thai UI, a background-work band, pasted-image previews — plus what failed and why |
+| [claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) | Claude Code mods on Windows: a context/quota footer, Thai UI, a background-work band, pasted-image previews, an unpushed-work band — plus what failed and why |
 | [claude-quota-tray](https://github.com/MankhongGarden/claude-quota-tray) | Windows tray icon for Claude Max/Pro usage: 5-hour and weekly quota, per-model buckets, alerts (fork with extra fixes) |
 | [claude-stats](https://github.com/MankhongGarden/claude-stats) | An MMORPG-style character sheet from your Claude usage, parsed 100% locally (CLI + web) |
 | [claude-code-multi-context-windows](https://github.com/MankhongGarden/claude-code-multi-context-windows) | Run separate Claude accounts and config contexts on one Windows machine |
@@ -37,6 +37,12 @@ Everything here was proven on live products first (LINE bots with real users, Th
 | [marketplace-prelaunch-smoke-test](https://github.com/MankhongGarden/marketplace-prelaunch-smoke-test) | ฿125 of real payments → 16 bugs: a pre-launch smoke-test runbook |
 | [anthropic-cloud-routines-custom-mcp](https://github.com/MankhongGarden/anthropic-cloud-routines-custom-mcp) | A custom MCP server with OAuth 2.1 + PKCE so Claude cloud routines can reach your APIs |
 | [google-oauth-nonexpiring-refresh-token](https://github.com/MankhongGarden/google-oauth-nonexpiring-refresh-token) | "Production but unverified" Google OAuth apps and refresh-token longevity |
+
+## Thai text
+
+| Repo | What it solves |
+|---|---|
+| [thai-text-typst-ffmpeg](https://github.com/MankhongGarden/thai-text-typst-ffmpeg) | Thai words split mid-word in Typst, and Thai tone marks vanishing from ffmpeg burned-in subtitles |
 
 ---
 
