@@ -44,6 +44,13 @@ Everything here was proven on live products first (LINE bots with real users, Th
 |---|---|
 | [thai-text-typst-ffmpeg](https://github.com/MankhongGarden/thai-text-typst-ffmpeg) | Thai words split mid-word in Typst, and Thai tone marks vanishing from ffmpeg burned-in subtitles |
 
+## Upstream contributions (merged)
+
+| Project | PR | What it fixed |
+|---|---|---|
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | [#3150](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/3150) | `emulate` keeps the previous viewport when `setViewport` fails |
+| [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) | [#635](https://github.com/line/line-bot-mcp-server/pull/635) | Flex size properties accept the documented px / % / keyword values |
+
 ---
 
 Building from Thailand 🇹🇭 · Issues and PRs welcome on any repo
