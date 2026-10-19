@@ -50,6 +50,7 @@ Everything here was proven on live products first (LINE bots with real users, Th
 |---|---|---|
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | [#3150](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/3150) | `emulate` keeps the previous viewport when `setViewport` fails |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | [#3220](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/3220) | Uncaught errors keep their `Caused by` chain when thrown after the page has loaded |
+| [Chrome DevTools frontend](https://chromium.googlesource.com/devtools/devtools-frontend) | [CL 8606246](https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/8606246) | Exposes `WebAuthnModel` to chrome-devtools-mcp: virtual authenticators, credential import and user verification |
 | [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) | [#635](https://github.com/line/line-bot-mcp-server/pull/635) | Flex size properties accept the documented px / % / keyword values |
 | [line/promgen](https://github.com/line/promgen) | [#799](https://github.com/line/promgen/pull/799) | Alertmanager and Prometheus URLs keep their path prefix |
 
