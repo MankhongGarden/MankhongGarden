@@ -19,7 +19,12 @@ Everything here was proven on live products first (LINE bots with real users, Th
 | Repo | What it solves |
 |---|---|
 | [claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) | Claude Code mods on Windows: a context/quota footer, Thai UI, a background-work band, pasted-image previews, an unpushed-work band — plus what failed and why |
-| [claude-quota-tray](https://github.com/MankhongGarden/claude-quota-tray) | Windows tray icon for Claude Max/Pro usage: 5-hour and weekly quota, per-model buckets, alerts (fork with extra fixes) |
+| [cc-remind](https://github.com/MankhongGarden/cc-remind) | A reminder inbox shared by every Claude Code session on your machine: notes for another project wait until a session opens there, plus a desktop widget |
+| [claude-code-tab-guard](https://github.com/MankhongGarden/claude-code-tab-guard) | Hook that lets several Claude Code sessions share one Chromium (chrome-devtools MCP) while each touches only its own tabs |
+| [mcp-fast-launch](https://github.com/MankhongGarden/mcp-fast-launch) | Start npm-based MCP servers in about a second instead of `npx -y <pkg>@latest`, with background updates |
+| [claude-code-side-rail](https://github.com/MankhongGarden/claude-code-side-rail) | Always-on panel beside Claude Code in Windows Terminal: which session needs you, usage left, prompt-cache expiry |
+| [claude-usage-tray](https://github.com/MankhongGarden/claude-usage-tray) | Windows tray icon for Claude plan usage (5-hour and weekly limits) and Claude status health |
+| [claude-code-windows-least-privilege-agent](https://github.com/MankhongGarden/claude-code-windows-least-privilege-agent) | Running unattended Claude Code jobs on a shared Windows VPS with per-job users, Deny ACLs and an allowlist hook |
 | [claude-stats](https://github.com/MankhongGarden/claude-stats) | An MMORPG-style character sheet from your Claude usage, parsed 100% locally (CLI + web) |
 | [claude-code-multi-context-windows](https://github.com/MankhongGarden/claude-code-multi-context-windows) | Run separate Claude accounts and config contexts on one Windows machine |
 | [chrome-mcp-windows-survival-guide](https://github.com/MankhongGarden/chrome-mcp-windows-survival-guide) | Nine real gotchas installing and operating chrome-mcp on Windows |
@@ -37,6 +42,15 @@ Everything here was proven on live products first (LINE bots with real users, Th
 | [marketplace-prelaunch-smoke-test](https://github.com/MankhongGarden/marketplace-prelaunch-smoke-test) | ฿125 of real payments → 16 bugs: a pre-launch smoke-test runbook |
 | [anthropic-cloud-routines-custom-mcp](https://github.com/MankhongGarden/anthropic-cloud-routines-custom-mcp) | A custom MCP server with OAuth 2.1 + PKCE so Claude cloud routines can reach your APIs |
 | [google-oauth-nonexpiring-refresh-token](https://github.com/MankhongGarden/google-oauth-nonexpiring-refresh-token) | "Production but unverified" Google OAuth apps and refresh-token longevity |
+
+## Windows utilities
+
+| Repo | What it solves |
+|---|---|
+| [windows-vps-tray](https://github.com/MankhongGarden/windows-vps-tray) | Tray light for a remote Windows server: scheduled tasks, services, heartbeats and job logs graded over SSH, no agent |
+| [windows-cpu-temp-tray](https://github.com/MankhongGarden/windows-cpu-temp-tray) | CPU temperature as a colour-coded tray icon, with clocks, power mode, RAM, disk and battery wear |
+| [disk-sweep](https://github.com/MankhongGarden/disk-sweep) | Rule-based cache and temp cleaner that always writes a plan first and deletes only when told |
+| [sync-guard](https://github.com/MankhongGarden/sync-guard) | Keeps Google Drive and OneDrive running but out of the way (idle priority, few cores) |
 
 ## Thai text
 
