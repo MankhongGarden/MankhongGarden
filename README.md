@@ -68,6 +68,7 @@ Everything here was proven on live products first (LINE bots with real users, Th
 | [Chrome DevTools frontend](https://chromium.googlesource.com/devtools/devtools-frontend) | [CL 8606246](https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/8606246) | Exposes `WebAuthnModel` to chrome-devtools-mcp: virtual authenticators, credential import and user verification |
 | [Chrome DevTools frontend](https://chromium.googlesource.com/devtools/devtools-frontend) | [CL 8629668](https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/8629668) | `WebAuthnModel` throws the CDP error when a WebAuthn command fails, instead of silently returning `undefined` |
 | [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) | [#635](https://github.com/line/line-bot-mcp-server/pull/635) | Flex size properties accept the documented px / % / keyword values |
+| [line/create-liff-app](https://github.com/line/create-liff-app) | [#55](https://github.com/line/create-liff-app/pull/55) | Svelte templates work with Svelte 5 |
 | [line/promgen](https://github.com/line/promgen) | [#799](https://github.com/line/promgen/pull/799) | Alertmanager and Prometheus URLs keep their path prefix |
 | [adbar/trafilatura](https://github.com/adbar/trafilatura) | [#1012](https://github.com/adbar/trafilatura/pull/1012) | Pages with prefixed tags such as Word's `<o:p>` are extracted instead of the whole document being lost |
 
