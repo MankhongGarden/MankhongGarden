@@ -72,6 +72,7 @@ Everything here was proven on live products first (LINE bots with real users, Th
 | [line/promgen](https://github.com/line/promgen) | [#799](https://github.com/line/promgen/pull/799) | Alertmanager and Prometheus URLs keep their path prefix |
 | [adbar/trafilatura](https://github.com/adbar/trafilatura) | [#1012](https://github.com/adbar/trafilatura/pull/1012) | Pages with prefixed tags such as Word's `<o:p>` are extracted instead of the whole document being lost |
 | [PyThaiNLP/pythainlp](https://github.com/PyThaiNLP/pythainlp) | [#1591](https://github.com/PyThaiNLP/pythainlp/pull/1591) | New lookup that gives the Thai name of a Thai character or mark |
+| [PyThaiNLP/pythainlp](https://github.com/PyThaiNLP/pythainlp) | [#1597](https://github.com/PyThaiNLP/pythainlp/pull/1597) | Drops Python 3.9 so CI passes again on the new `ubuntu-latest` runner, and moves Bandit to Python 3.14 |
 
 ---
 
